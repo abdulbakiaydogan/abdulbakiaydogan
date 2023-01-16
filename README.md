@@ -17,3 +17,27 @@ Ara sıra kendi çapımda kod yazıp eğleniyorum, projelerimi görmek için rep
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+# İsmail Abdulbaki Aydoğan
+
+Merhaba! Ben İsmail Abdulbaki Aydoğan ve yazılım dilleri olarak JavaScript, Python, Node.js ve React.js'i kullanıyorum. Bu dillerle ilgili projeler yapmaya ve öğrenmeye devam ediyorum.
+
+## JavaScript
+- JavaScript ile web uygulamaları geliştiriyorum.
+- Dinamik web sayfaları oluşturmak için kullanıyorum.
+- Frameworkler arasında React.js'i kullanıyorum.
+
+## Python
+- Python ile veri analitik, makine öğrenimi gibi uygulamalar yapıyorum.
+- Python'da Flask ve Django gibi web frameworkleri kullanıyorum.
+
+## Node.js
+- Node.js ile backend uygulamaları geliştiriyorum.
+- JavaScript dilini kullanarak uygulama sunucusu tarafını yazıyorum.
+
+## React.js
+- React.js ile frontend uygulamaları geliştiriyorum.
+- JavaScript dilini kullanarak web sayfası arayüzünü yazıyorum.
+
+Projelerim hakkında daha fazla bilgi için [GitHub](https://github.com/ismim) profilimi ziyaret edebilirsiniz.
+
