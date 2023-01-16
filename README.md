@@ -18,25 +18,3 @@ Ara sıra kendi çapımda kod yazıp eğleniyorum, projelerimi görmek için rep
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
--- bu bölüm
-##### JavaScript
-- JavaScript ile web uygulamaları geliştiriyorum.
-- Dinamik web sayfaları oluşturmak için kullanıyorum.
-- Frameworkler arasında React.js'i kullanıyorum.
-
-##### Python
-- Python ile veri analitik, makine öğrenimi gibi uygulamalar yapıyorum.
-- Python'da Flask ve Django gibi web frameworkleri kullanıyorum.
-
-##### Node.js
-- Node.js ile backend uygulamaları geliştiriyorum.
-- JavaScript dilini kullanarak uygulama sunucusu tarafını yazıyorum.
-
-##### React.js
-- React.js ile frontend uygulamaları geliştiriyorum.
-- JavaScript dilini kullanarak web sayfası arayüzünü yazıyorum.
-
-Projelerim hakkında daha fazla bilgi için [tıkla](mailto:abdulbakiaydogan1@outlook.com).
-
--- chatgpt tarafından oluşturuldu.
-
