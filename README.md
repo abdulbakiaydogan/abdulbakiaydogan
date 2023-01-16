@@ -17,6 +17,8 @@ Ara sıra kendi çapımda kod yazıp eğleniyorum, projelerimi görmek için rep
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
+
+-- bu bölüm
 ##### JavaScript
 - JavaScript ile web uygulamaları geliştiriyorum.
 - Dinamik web sayfaları oluşturmak için kullanıyorum.
@@ -35,4 +37,6 @@ Ara sıra kendi çapımda kod yazıp eğleniyorum, projelerimi görmek için rep
 - JavaScript dilini kullanarak web sayfası arayüzünü yazıyorum.
 
 Projelerim hakkında daha fazla bilgi için [tıkla](mailto:abdulbakiaydogan1@outlook.com).
+
+-- chatgpt tarafından oluşturuldu.
 
