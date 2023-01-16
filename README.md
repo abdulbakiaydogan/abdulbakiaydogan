@@ -4,7 +4,7 @@ Ara sıra kendi çapımda kod yazıp eğleniyorum, projelerimi görmek için rep
 
 - 🔭 18 yaşındayım ve üniversite sınavına hazırlanıyorum.
 - 📚 Şu an da ise Python ve Javascript üzerine yoğun bir şekilde çalışmaktayım.
-- 📫 İletişim için: [tıkla](mailto:abdulbakiaydogan1@outlook.com)
+- 📫 İletişim için: [tıkla](mailto:abdulbakiaydogan1@outlook.com) [spotify](https://open.spotify.com/user/wxxs3mhd4wxfg869wfe3ga5t4?si=1829ea8e06fa414b)
 
 ##### Kullandığım diller ve araçlar
 
