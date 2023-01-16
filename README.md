@@ -13,3 +13,8 @@ Ara sıra kendi çapımda kod yazıp eğleniyorum, projelerimi görmek için rep
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/wxxs3mhd4wxfg869wfe3ga5t4)
