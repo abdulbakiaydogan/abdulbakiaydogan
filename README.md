@@ -1,12 +1,4 @@
-### Merhaba👋
-
-Ara sıra kendi çapımda kod yazıp eğleniyorum, projelerimi görmek için repolarımı gezmek ister misin?
-
-- 🔭 18 yaşındayım ve üniversite sınavına hazırlanıyorum.
-- 📚 Şu an da ise Python ve Javascript üzerine yoğun bir şekilde çalışmaktayım.
-- 🎵 Müzik listeme ulaşmak için: [spotify](https://open.spotify.com/user/wxxs3mhd4wxfg869wfe3ga5t4?si=1829ea8e06fa414b)
-
-##### Kullandığım diller ve araçlar
+![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)(https://open.spotify.com/user/wxxs3mhd4wxfg869wfe3ga5t4?si=1829ea8e06fa414b)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
